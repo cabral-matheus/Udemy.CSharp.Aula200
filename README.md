@@ -1,0 +1,1 @@
+Code that performs some operations on instances of String that contain file or directory path information.
